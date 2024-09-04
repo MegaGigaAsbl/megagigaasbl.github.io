@@ -4,5 +4,7 @@ At MegaGiga, we discuss all kinds of ICT challenges. Sometimes, one needs webpag
 
 This website is the place where we store the test pages in question. We can assure you that all pages are benign.
 
+Our public website can be found at http://megagiga.be
+
 Kind regards,
 The MegaGiga team
