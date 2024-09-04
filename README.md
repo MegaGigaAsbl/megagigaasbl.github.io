@@ -6,5 +6,5 @@ This website is the place where we store the test pages in question. We can assu
 
 Our public website can be found at http://megagiga.be
 
-Kind regards,
+Kind regards,\
 The MegaGiga team
